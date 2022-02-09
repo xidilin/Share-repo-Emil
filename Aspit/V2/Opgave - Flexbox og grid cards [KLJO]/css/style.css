@@ -1,0 +1,32 @@
+
+
+section
+{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+}
+
+img
+{
+    /* display: block; */
+    /* width: 500px; */
+}
+
+.resize
+{
+    display: flex;
+    flex-direction: column;
+    width: 95vw;
+    /* padding: 0 1rem; */
+    /* margin: 0 auto; */
+}
+
+@media screen and (min-width:600px) {
+
+}
+
+@media screen and (min-width:1008px) {
+
+}
+
